@@ -1,0 +1,12 @@
+* {
+  font-family: Monaco, sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+.App {
+  padding: 5%;
+  width: 90%;
+  height: 81.5vh;
+  background-color: #013220;
+}
